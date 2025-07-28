@@ -2,7 +2,7 @@
 
 The codes that I wrote in my 4th academic year. (Intro to Optimization Class).
 
-# Example from Steepest Descent Folder:**
+# Example from Steepest Descent Folder:
 
 Consider we need to find the local minimum x* of the objective function (In this case, Rosenbrock's function);
 <img width="501" height="35" alt="image" src="https://github.com/user-attachments/assets/56bfdbf5-b61e-45cf-a713-eb77c0baaee8" />
