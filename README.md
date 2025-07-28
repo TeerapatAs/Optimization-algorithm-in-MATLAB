@@ -19,7 +19,7 @@ Here is the result. (After 51 iterations, we find the correct solution x = (1,1)
 <img width="651" height="277" alt="image" src="https://github.com/user-attachments/assets/18cb2e33-c160-4d97-9786-9c192fbb5298" />
 
 **Code Snippet**
-<sub>
+```
 function [xmin,fmin,Xk,Fk,Gk,nF,nG,nH,IFLAG] = Newton(FunctionName,x0,epsilon,e_rel,e_abs,itmax)
 
 %inputs
@@ -145,4 +145,4 @@ IFLAG = -999
 xmin = x; fmin = f_x;
 
 end
-</sub>
+```
